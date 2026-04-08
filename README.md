@@ -6,7 +6,7 @@
 
 ### 🚀 What I'm Building
 
-**[Zenith.js](https://github.com/joshuaogunlade903cpu/zenith.js)** — A full-stack JavaScript framework I built from scratch.
+**[Zenith.js](https://github.com/joshuaogunlade903-cpu/Zenith.js-release-)** — A full-stack JavaScript framework I built from scratch.
 
 No build step. No npm install. No compiler. Drop a script tag and ship.
 
@@ -61,7 +61,7 @@ app.runIn(DOM.body)
 
 ### 📌 Featured Project
 
-[![Zenith.js](https://github-readme-stats.vercel.app/api/pin/?username=joshuaogunlade903cpu&repo=zenith.js&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=F0A500&icon_color=F0A500&text_color=ffffff)](https://github.com/joshuaogunlade903cpu/zenith.js)
+[![Zenith.js](https://zenith-red-omega.vercel.app)
 
 ---
 
