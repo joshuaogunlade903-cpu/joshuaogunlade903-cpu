@@ -61,7 +61,7 @@ app.runIn(DOM.body)
 
 ### 📌 Featured Project
 
-[![Zenith.js](https://zenith-red-omega.vercel.app)
+<a href="https://zenith-red-omega.vercel.app">Zenith.js</a>
 
 ---
 
