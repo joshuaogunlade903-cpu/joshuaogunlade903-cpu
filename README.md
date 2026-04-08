@@ -74,7 +74,7 @@ app.runIn(DOM.body)
 ### 📫 Reach me
 
 - Instagram · Facebook — search **Joshua Ogunlade**
-- GitHub issues on [Zenith.js](https://github.com/joshuaogunlade903cpu/zenith.js)
+- GitHub issues on [Zenith.js](https://github.com/joshuaogunlade903-cpu/Zenith.js-release-)
 
 ---
 
