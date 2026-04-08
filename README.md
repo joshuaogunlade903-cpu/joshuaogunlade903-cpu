@@ -51,11 +51,9 @@ app.runIn(DOM.body)
 
 ---
 
-### 📊 GitHub Stats
-
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaogunlade903cpu&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=F0A500&icon_color=F0A500&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaogunlade903cpu&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=F0A500&text_color=ffffff)
+### 📊 Zenith Stats
+<a href="https://zenith-gap.vercel.app">Zenith Vs The Big 3</a>
+<a href="https://aboutzenith.vercel.app">Zenith Vs React Native</a>
 
 ---
 
