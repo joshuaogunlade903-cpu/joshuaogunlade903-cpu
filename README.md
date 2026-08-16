@@ -42,7 +42,7 @@ QTCC aims to make the toolchain itself responsible for those decisions.
 quart build
 ```
 That's the goal.
-\## Built for Quart
+## Built for Quart
 QTCC is not a generic compiler frontend. It is being designed alongside the Quart language and its execution model.
 Quart gives developers high-level abstractions when they want them while still allowing direct access to memory and platform functionality when they need it.
 For example:
@@ -210,7 +210,7 @@ QTCC is being built from the ground up.
 GitHub Link:
 https://github.com/joshuaogunlade903-cpu/QTCC.git
 
-
+# Zenith
 **[Zenith.js](https://github.com/joshuaogunlade903-cpu/Zenith.js-release-)** — A full-stack JavaScript framework I built from scratch.
 
 No build step. No npm install. No compiler. Drop a script tag and ship.
